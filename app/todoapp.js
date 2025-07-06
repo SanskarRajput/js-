@@ -17,7 +17,7 @@ while(req != "quit"){
     }else if(req === 'remove'){
         let a = prompt("enter the idx of u wanna remove the task ?");
         todo.splice(a,1);
-        console.log("remove the task");
+        console.log("remove the task")
 
     }
 
