@@ -22,5 +22,6 @@ while(req != "quit"){
     }
 
     req = prompt('enter the tast for u wanna do ?');
+    console.log("one circle is done");
 
 }
